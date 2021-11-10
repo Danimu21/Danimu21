@@ -1,0 +1,17 @@
+body, ul, li, p {
+margin: 0px;
+padding: 0px;
+list-style: none;
+font-size: 1,2rem;
+font-family: 'Maven Pro', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
+.header{
+    background: black;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+align-items: center;}
